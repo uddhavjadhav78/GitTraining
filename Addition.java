@@ -5,6 +5,6 @@ class Addition
         x=10;
         y=20;
         z=x+y;
-        System.out.println("hello:"+z);
+        System.out.println("sum is:"+z);
     }
 }
